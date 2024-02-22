@@ -6,4 +6,4 @@ for quick & easy customization, there's a CONFIG section at the top of the scrip
 
 just open the .py with Python 3
 
-[<img src="https://img.youtube.com/vi/4ycALI9lJJ8/hqdefault.jpg" width="300" height="150"/>](https://www.youtube.com/watch?v=4ycALI9lJJ8)
+[<img src="https://img.youtube.com/vi/4ycALI9lJJ8/hqdefault.jpg" width="320" height="240"/>](https://www.youtube.com/watch?v=4ycALI9lJJ8)
